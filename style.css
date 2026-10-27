@@ -1,0 +1,26 @@
+title {
+    color: blue;
+    font: size 128px;
+    ;
+}
+
+h1 {
+    color: red;
+    font-size: 128px;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: purple;
+}
+
+.bg-green {
+    background-color: chartreuse;
+}
+
+h2 {
+    text-align: center;
+}
